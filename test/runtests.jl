@@ -112,3 +112,7 @@ end
 # end
 
 # myplot(rand(4), axis=(xscale=log10,))
+# using CairoMakie
+# plot(Test2(rand(Float32, 10)))
+
+# scatter(Solution(rand(4)), attribute = 10)
