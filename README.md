@@ -1,4 +1,4 @@
-# MakieCore
+# MakieCore (this repository is deprecated, since the package has been moved to the [Makie mono repo](https://github.com/JuliaPlots/Makie.jl/))
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://JuliaPlots.github.io/MakieCore.jl/stable)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://JuliaPlots.github.io/MakieCore.jl/dev)
